@@ -1,4 +1,3 @@
-![](Penguin.JPG)   
 Virtual Pet
 =============
 
