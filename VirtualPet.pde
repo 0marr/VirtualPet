@@ -24,7 +24,6 @@ void draw() {
   strokeWeight (10);
   arc (205, 200, 230, 190, 3.1, 6.2);
   
-  
   //ear cutout R
   fill (194, 178, 128);
   stroke(194, 178, 128);
